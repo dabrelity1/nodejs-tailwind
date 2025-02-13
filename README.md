@@ -41,6 +41,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can talk to me thru my email: *a14474@oficina.pt*, or by making a GitHub **pull request**
+You can talk to me thru my email: *a14474@oficina.pt*, or by making a GitHub **pull request**.
 
 To learn React, check out the [React documentation](https://reactjs.org/).
