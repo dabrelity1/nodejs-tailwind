@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App Component > matches snapshot 1`] = `
+<div>
+  <div>
+    <h1>
+      SoundScape Player
+    </h1>
+  </div>
+</div>
+`;
